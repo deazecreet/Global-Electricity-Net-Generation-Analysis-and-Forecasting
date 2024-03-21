@@ -23,15 +23,6 @@ The dataset, "Global Electricity Net Generation Statistics.csv," encompasses ann
 - ARIMA model building for forecasting future net generation trends.
 - Insights and conclusions regarding global electricity production and sustainability considerations.
 
-## Usage
-Instructions on setting up the environment, running the Jupyter notebook for analysis, and interpreting the results. This includes steps for installing necessary Python packages, loading the dataset, and executing the notebook.
-
-## Contributions
-Details on how to contribute to the project, report issues, or suggest enhancements.
-
-## License
-Information about the project license and usage terms.
-
 ## Acknowledgments
 - Team FangFengFong for collaborative efforts in data analysis and interpretation.
 - Dataset providers and all tools and libraries used in this analysis.
