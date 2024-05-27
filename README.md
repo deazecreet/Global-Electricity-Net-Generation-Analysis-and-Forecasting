@@ -1,4 +1,4 @@
-# Global-Electricity-Net-Generation-Analysis-and-Forecasting
+# Global Electricity Net Generation Dataset Analysis and Forecasting
 
 ## Overview
 This project conducts an in-depth Exploratory Data Analysis (EDA) and Time Series Analysis on global electricity net generation data. Utilizing Python libraries such as pandas, seaborn, and statsmodels, we explore trends, patterns, and forecasts in electricity production across various regions and countries from 1980 to 2021.
